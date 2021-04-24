@@ -11,7 +11,9 @@ This project seeks to perform statistical analysis on the provided dataset and a
 
 ### Datasets:
 http://bit.ly/FinancialDataset 
-Software( Github, Google Collaboratory, Language-Python)
-##Licence
+
+### Software
+( Github, Google Collaboratory, Language-Python)
+
 ## Licence
 This project is licensed under the MIT License - see the LICENSE.md file for details
